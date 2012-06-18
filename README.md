@@ -76,12 +76,12 @@ Here is the list of lighting componentry:
 ## Hints ##
 
 In any lighting system there are many individual components that make a fully "functional" lighting solution.
-Once a lighting solution is fully "functional" we rarely think about the details of _how_ it works. Instead we just that
-it works. I like to ask this question: When you walk into a room and hit the lights, how often
-do you concern yourself with any details? There is one question, namely, did the lights turn on?
+Once a lighting solution is fully "functional" we rarely think about the details of _how_ it works. Instead we just care
+that it is working. I like to ask this question: When you walk into a room and hit the lights, how often
+do you concern yourself with any details? There is one question, namely, are the lights on or are they off?
 
 Conversely, as you couple or "integrate" the lighting components, you are more interested
 in the signals between their integration points. For example after you connect the bedroom wiring to the dimmer switch
 you should be interested in the voltage reading on the various wires.
 
-As you're unit testing you should be laser focused on each of the individual component.
+Unit testing should be easiest to discern since you should be laser focused on each of the individual component.

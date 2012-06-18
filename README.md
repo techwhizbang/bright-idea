@@ -35,10 +35,6 @@ the guest room.
 In order to make the guest room warm and inviting you've chosen a sleek set of
 sconces. Beside the sconces you want to install a dimmer switch with a timer on it.
 
-In any lighting system there are many individual components that make a fully "functional" solution.
-As you think about the list of lighting components and how they "integrate", you should
-start to draw the parallels in the software you code and test everyday.
-
 Here is the list of lighting componentry:
 
 * A pair of bedroom sconces
@@ -77,11 +73,15 @@ Here is the list of lighting componentry:
 
 * Power switch (on/off) going to the guest bedroom.
 
+## Hints ##
 
+In any lighting system there are many individual components that make a fully "functional" lighting solution.
+Once a lighting solution is fully "functional" we rarely think about the details of _how_ it works. Instead we just that
+it works. I like to ask this question: When you walk into a room and hit the lights, how often
+do you concern yourself with any details? There is one question, namely, did the lights turn on?
 
+Conversely, as you couple or "integrate" the lighting components, you are more interested
+in the signals between their integration points. For example after you connect the bedroom wiring to the dimmer switch
+you should be interested in the voltage reading on the various wires.
 
-
-
-
-
-
+As you're unit testing you should be laser focused on each of the individual component.

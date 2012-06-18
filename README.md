@@ -17,10 +17,10 @@
 
 ## Summary ##
 
-All too often the subtleties between integration and functional testing
+All too often the subtleties between unit, integration, and functional testing
 are blurred.
 
-"Bright Idea" is a coding kata focused on teaching developers
+"Bright Idea" is a coding kata focused on helping developers think about
 the differences between unit, integration, and functional testing.
 
 ## Description ##
